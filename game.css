@@ -1,0 +1,28 @@
+
+#cat1{
+    width: 400px;
+    height: 100px;
+    left: 0;
+    top: 0;
+    box-shadow: blue 4px 4px 9px;
+}
+
+
+#cat2{
+    width: 400px;
+    height: 100px;
+    box-shadow: blue 4px 4px 9px;
+    top: 100;
+    left: 0;
+}
+#cat3{
+    width: 400px;
+    height: 100px;
+    top: 200;
+    left: 0;
+    box-shadow: blue 4px 4px 9px;
+}
+img{
+    display: block;
+    width: 500px;
+}
